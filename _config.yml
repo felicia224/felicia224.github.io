@@ -58,12 +58,12 @@ plugins:
 
 author:
   name   : "Felicia Villarroel"
-  avatar : "https://wallpapers.com/images/hd/pink-solid-color-364gx2fy3h6alydq.jpg"
-  bio    : "Studying Game Development at Stockholm University :)"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - #label: "Website"
-      #icon: "fas fa-fw fa-link"
-      #url: "https://"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
